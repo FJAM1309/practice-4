@@ -1,0 +1,26 @@
+module PeriodCounter (
+	input iClk,
+	input [1:0] iSignal,
+	output [3:0] oCycles
+);
+
+reg rCycles_D;
+reg rCycles_Q;
+
+always @ (posedge iClk)
+begin
+	rCycles_Q <= rCycles_D;
+end
+
+always @ *
+begin
+	if(iSignal[0] == 1'b0 && iSignal[1] == 1'b1)
+		begin
+		rCycles_D = rCycles_Q + 4'd1;
+		end
+	else
+		begin
+		rCycles_D = rCycles_Q;
+		end
+end
+endmodule

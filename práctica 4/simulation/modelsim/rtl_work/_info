@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Quartus/intelFPGA_lite/p4/simulation/modelsim
+vDebouncing
+Z1 !s110 1614989237
+!i10b 1
+!s100 7]ikVeZk29F2fKDHNZOQX1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJf5E2ZFPNO<QmV4N8^U6M0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1614957097
+8D:/Quartus/intelFPGA_lite/p4/Debouncing.v
+FD:/Quartus/intelFPGA_lite/p4/Debouncing.v
+!i122 1
+L0 1 49
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1614989237.000000
+!s107 D:/Quartus/intelFPGA_lite/p4/Debouncing.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/p4|D:/Quartus/intelFPGA_lite/p4/Debouncing.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+D:/Quartus/intelFPGA_lite/p4
+Z8 tCvgOpt 0
+n@debouncing
+vDivF
+R1
+!i10b 1
+!s100 lGQfdUQi2bIMda393CQkG1
+R2
+IIbFSUODQYLAUb`165^TJd3
+R3
+R0
+w1614955082
+8D:/Quartus/intelFPGA_lite/p4/DivF.v
+FD:/Quartus/intelFPGA_lite/p4/DivF.v
+!i122 2
+L0 1 46
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Quartus/intelFPGA_lite/p4/DivF.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/p4|D:/Quartus/intelFPGA_lite/p4/DivF.v|
+!i113 1
+R6
+R7
+R8
+n@div@f
+vPeriodCounter
+R1
+!i10b 1
+!s100 mL4dL7^b9^2Hd`YzSI70D0
+R2
+IhO[cZ7m;LPZ?6IWoH8SB<0
+R3
+R0
+w1614969716
+8D:/Quartus/intelFPGA_lite/p4/PeriodCounter.v
+FD:/Quartus/intelFPGA_lite/p4/PeriodCounter.v
+!i122 3
+L0 1 52
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Quartus/intelFPGA_lite/p4/PeriodCounter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/p4|D:/Quartus/intelFPGA_lite/p4/PeriodCounter.v|
+!i113 1
+R6
+R7
+R8
+n@period@counter
+vTopModule
+R1
+!i10b 1
+!s100 InWdWhe^K5RFU3dZm1=JG0
+R2
+I@9FPTcLGHjHe1P>N1diJ13
+R3
+R0
+w1614989173
+8D:/Quartus/intelFPGA_lite/p4/TopModule.v
+FD:/Quartus/intelFPGA_lite/p4/TopModule.v
+!i122 0
+L0 1 73
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Quartus/intelFPGA_lite/p4/TopModule.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/p4|D:/Quartus/intelFPGA_lite/p4/TopModule.v|
+!i113 1
+R6
+R7
+R8
+n@top@module
+vTopModule_tb
+!s110 1614989238
+!i10b 1
+!s100 R5H;Oi]PglU1?Rj[0NekG3
+R2
+I>OfGY<fbSgoC@e?cbfgHA2
+R3
+R0
+w1614953195
+8D:/Quartus/intelFPGA_lite/p4/TopModule_tb.v
+FD:/Quartus/intelFPGA_lite/p4/TopModule_tb.v
+!i122 4
+L0 1 45
+R4
+r1
+!s85 0
+31
+!s108 1614989238.000000
+!s107 D:/Quartus/intelFPGA_lite/p4/TopModule_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/p4|D:/Quartus/intelFPGA_lite/p4/TopModule_tb.v|
+!i113 1
+R6
+R7
+R8
+n@top@module_tb
