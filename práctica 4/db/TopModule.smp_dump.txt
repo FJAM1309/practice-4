@@ -1,7 +1,0 @@
-
-State Machine - |TopModule|BitShift:bitshift|rState_Q
-Name rState_Q.011 rState_Q.010 rState_Q.001 rState_Q.000 
-rState_Q.000 0 0 0 0 
-rState_Q.001 0 0 1 1 
-rState_Q.010 0 1 0 1 
-rState_Q.011 1 0 0 1 

@@ -1,3 +1,0 @@
-Warning (10268): Verilog HDL information at Debouncing.v(18): always construct contains both blocking and non-blocking assignments File: D:/Quartus/intelFPGA_lite/p4/Debouncing.v Line: 18
-Warning (10268): Verilog HDL information at DivF.v(16): always construct contains both blocking and non-blocking assignments File: D:/Quartus/intelFPGA_lite/p4/DivF.v Line: 16
-Warning (10268): Verilog HDL information at PeriodCounter.v(20): always construct contains both blocking and non-blocking assignments File: D:/Quartus/intelFPGA_lite/p4/PeriodCounter.v Line: 20
